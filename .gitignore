@@ -1,0 +1,45 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ===== Environnements virtuels =====
+.venv/
+venv/
+env/
+csc8614/
+.conda/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== OS / Editor =====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ===== Caches / logs =====
+.cache/
+*.log
+
+# ===== HuggingFace / Transformers cache =====
+huggingface/
+HF_HOME/
+TRANSFORMERS_CACHE/
+*.safetensors
+*.bin
+
+# ===== Data / outputs lourds (si tu en as) =====
+runs/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.pkl
+
+# ===== Archives =====
+*.zip
+*.tar
+*.tar.gz
+*.7z
