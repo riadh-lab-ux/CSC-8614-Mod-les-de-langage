@@ -43,3 +43,6 @@ outputs/
 *.tar
 *.tar.gz
 *.7z
+TP2/session_02/gpt2_weights/
+gpt2_weights/
+TP2/tp2/
