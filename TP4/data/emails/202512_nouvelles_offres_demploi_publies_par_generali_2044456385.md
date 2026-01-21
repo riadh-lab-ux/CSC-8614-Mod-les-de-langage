@@ -1,0 +1,25 @@
+# Nouvelles offres d'emploi publiées par Generali
+
+**From:** generali-job@noreply2.jobs2web.com
+
+**Date:** Mon, 19 Jan 2026 10:41:29 +0000
+
+**Message-ID:** <1118498263.11150901768819289057.JavaMail.tomee@pc57j2wmail01>
+
+---
+
+Bonjour, 
+
+Vous recevez cet e-mail parce que vous avez rejoint la communauté de talents GENERALI VIE le 14/04/2025 et nous vous en remercions.
+
+Vous recevrez ces messages tous les 7 jour(s). Votre alerte d'offres d'emploi correspond aux offres d'emploi suivantes sur <a class="agentsitelink" href="http://carrieres.generali.fr/?from=email&refid=16804599802&utm_source=J2WEmail&source=2&eid=133702-202641191041-24459845102&locale=fr_FR">carrieres.generali.fr</a>. <br/><br/><b> Offres d'emploi : </b><br/><span class="agentjoblink_bullet"></span> <a class="agentjoblink" href="http://carrieres.generali.fr/job/ST-DENIS-CDI-CHARGE%28E%29-INDEMNISATION-SINISTRES-DAB-MEDIANS-HF-HF-93210/1325731557/?from=email&refid=16804599802&utm_source=J2WEmail&source=2&eid=133702-202641191041-24459845102&locale=fr_FR">CDI - CHARGE(E) INDEMNISATION SINISTRES DAB MEDIANS - H/F - H/F - ST DENIS, FR, 93210</a><br/>
+<span class="agentjoblink_bullet"></span> <a class="agentjoblink" href="http://carrieres.generali.fr/job/ST-DENIS-CDI-CHARGE-D&apos;ETUDES-D&apos;ACTUARIAT-HF-93210/1348720257/?from=email&refid=16804599802&utm_source=J2WEmail&source=2&eid=133702-202641191041-24459845102&locale=fr_FR">CDI - CHARGE D'ETUDES D'ACTUARIAT - H/F - ST DENIS, FR, 93210</a><br/>
+<span class="agentjoblink_bullet"></span> <a class="agentjoblink" href="http://carrieres.generali.fr/job/ST-DENIS-COACH-AGILE-HF-93210/1348817957/?from=email&refid=16804599802&utm_source=J2WEmail&source=2&eid=133702-202641191041-24459845102&locale=fr_FR">COACH AGILE - H/F - ST DENIS, FR, 93210</a><br/>
+<span class="agentjoblink_bullet"></span> <a class="agentjoblink" href="http://carrieres.generali.fr/job/PARIS-STAGE-DATA-ANALYST-PRODUITS-STRUCTUR%C3%89S-HF-75009/1330042757/?from=email&refid=16804599802&utm_source=J2WEmail&source=2&eid=133702-202641191041-24459845102&locale=fr_FR">STAGE - DATA ANALYST PRODUITS STRUCTUR&Eacute;S - H/F - PARIS, FR, 75009</a><br/>
+<span class="agentjoblink_bullet"></span> <a class="agentjoblink" href="http://carrieres.generali.fr/job/ST-DENIS-CDI-Charg%C3%A9-d&apos;%C3%A9tudes-d&apos;actuariat-HF-93210/1348720957/?from=email&refid=16804599802&utm_source=J2WEmail&source=2&eid=133702-202641191041-24459845102&locale=fr_FR">CDI - Charg&eacute; d'&eacute;tudes d'actuariat - H/F - ST DENIS, FR, 93210</a><br/>
+<span class="agentjoblink_bullet"></span> <a class="agentjoblink" href="http://carrieres.generali.fr/job/ST-DENIS-CDI-RESPONSABLE-DE-MISSION-HF-93210/828300002/?from=email&refid=16804599802&utm_source=J2WEmail&source=2&eid=133702-202641191041-24459845102&locale=fr_FR">CDI - RESPONSABLE DE MISSION - H/F - ST DENIS, FR, 93210</a><br/>
+<span class="agentjoblink_bullet"></span> <a class="agentjoblink" href="http://carrieres.generali.fr/job/ST-DENIS-RESPONSABLE-LEARNING-&amp;-DEVELOPMENT-HF-HF-93210/1329904757/?from=email&refid=16804599802&utm_source=J2WEmail&source=2&eid=133702-202641191041-24459845102&locale=fr_FR">RESPONSABLE LEARNING &amp; DEVELOPMENT H/F - H/F - ST DENIS, FR, 93210</a><br/>
+<span class="agentjoblink_bullet"></span> <a class="agentjoblink" href="http://carrieres.generali.fr/job/ST-DENIS-Responsable-comptabilit%C3%A9-de-r%C3%A9assurance-HF-93210/1327765557/?from=email&refid=16804599802&utm_source=J2WEmail&source=2&eid=133702-202641191041-24459845102&locale=fr_FR">Responsable comptabilit&eacute; de r&eacute;assurance - H/F - ST DENIS, FR, 93210</a><br/>
+<span class="agentjoblink_bullet"></span> <a class="agentjoblink" href="http://carrieres.generali.fr/job/ST-DENIS-CDI-RESPONSABLE-D&apos;ETUDES-TECHNIQUES-HF-93210/1332429157/?from=email&refid=16804599802&utm_source=J2WEmail&source=2&eid=133702-202641191041-24459845102&locale=fr_FR">CDI - RESPONSABLE D'ETUDES TECHNIQUES - H/F - ST DENIS, FR, 93210</a><br/>
+<span class="agentjoblink_bullet"></span> <a class="agentjoblink" href="http://carrieres.generali.fr/job/ST-DENIS-CDD-TECHNICIEN-OPERATIONS-ASSURANCE-HF-93210/1348799157/?from=email&refid=16804599802&utm_source=J2WEmail&source=2&eid=133702-202641191041-24459845102&locale=fr_FR">CDD - TECHNICIEN OPERATIONS ASSURANCE - H/F - ST DENIS, FR, 93210</a><br/>
+<br/><br/><br/><a class="agentmodifylink" href="https://career2.successfactors.eu/careers?site=&company=generalivi&clientId=jobs2web&lang=fr_FR&navBarLevel=JOB_MGMT&subNavBarLevel=JOB_ALERTS">Gérer vos alertes d'offres d'emploi</a><br/><br/><br/><hr align="left" ><p align="right"><a class="agentmodifylink" href="https://career2.successfactors.eu/careers?site=&company=generalivi&clientId=jobs2web&lang=fr_FR&navBarLevel=JOB_MGMT&subNavBarLevel=JOB_ALERTS">Paramètres d'e-mails</a> | <a class="agentunsubscribelink" href="https://carrieres.generali.fr/unsubscribe/?from=email&refid=16804599802&utm_source=J2WEmail&source=2&eid=133702-202641191041-24459845102&locale=fr_FR">Se désabonner </a></p>

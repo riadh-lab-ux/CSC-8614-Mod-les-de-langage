@@ -1,0 +1,47 @@
+[
+  {
+    "id": "q1",
+    "question": "Le parking visiteurs est-il accessible pendant les travaux à l’entrée du campus ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q2",
+    "question": "Comment valider une UE dans la formation FISA à Télécom SudParis ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q3",
+    "question": "Quelles sont les règles concernant l’assiduité des apprentis-ingénieurs ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q4",
+    "question": "Quelles sont les conséquences d’une absence non justifiée à un examen ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q5",
+    "question": "Quelles sont les modalités d’inscription au TOEIC de janvier 2026 ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q6",
+    "question": "L’examen du TOEIC est-il gratuit et comment se déroule-t-il ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q7",
+    "question": "Quelles dates ma tutrice propose-t-elle pour le rendez-vous de visite d'entreprise ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q8",
+    "question": "Quelles sont les obligations des étudiants avant une soutenance finale du module rse?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q9",
+    "question": "Quels sont les sujets de PFE supplémentaires proposés par Luca Benedetto ?",
+    "expected_doc_type": "email"
+  }
+]
